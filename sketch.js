@@ -21,7 +21,7 @@ function setup() {
 		}
 	}
 
-	for (let i = 0; i < 400; i++) {
+	for (let i = 0; i < 600; i++) {
 		let x = random(width);
 		let y = random(height);
 		let design = random(textures);
